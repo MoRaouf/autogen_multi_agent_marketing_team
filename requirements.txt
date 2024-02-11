@@ -1,0 +1,19 @@
+numpy==1.24.4
+openai==0.28.1
+tiktoken==0.5.1
+pyautogen==0.1.13
+langchain==0.0.306
+langsmith==0.0.41
+pydantic==2.4.2
+python-dotenv==1.0.0
+seo-keyword-research-tool==0.1.9
+pillow==10.0.1
+google-api-python-client==2.103.0
+google-auth-oauthlib==1.1.0
+google-auth-httplib2==0.1.1
+streamlit==1.27.2
+beautifulsoup4==4.12.2
+unstructured==0.10.27
+chainlit==0.7.2
+
+# google_ads==22.0.0
